@@ -2,5 +2,5 @@
 
 + I'll persue my PHD degree in Tsinghua University in 2022.
 
-+ I'm interested in Quantum Computing and Networking Measurement.
++ I'm interested in Quantum Computing and Network Measurement.
 
