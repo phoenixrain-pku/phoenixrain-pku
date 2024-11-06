@@ -1,6 +1,3 @@
-+ I'm persueing my PHD degree in Tsinghua University.
-
-+ I used to be an undergraduate student at Peking University, studying in Turing Class (CS). 
-
-+ I'm interested in Quantum Computing and Network Measurement.
-
++ I'm currently a PHD student at Tsinghua University, department of computer science and technology.
++ I've received the degree of bachelor of Science from Peking University, with summa cumme laude title.
++ My research interests include quantum computing theory, and currently I focus on quantum communication & network protocols.
